@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Behat">
+    <behat_settings>
+      <BehatSettings />
+    </behat_settings>
+  </component>
+  <component name="ComposerSettings">
+    <pharConfigPath>/Library/WebServer/Documents/bayzat-sf/composer.json</pharConfigPath>
+    <pharPath>/Library/WebServer/Documents/bayzat-sf/bin/composer.phar</pharPath>
+    <phpPath>/usr/local/bin/php</phpPath>
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="JsBowerSettings">
+    <exe-path>/usr/local/bin/bower</exe-path>
+    <config-path>/Library/WebServer/Documents/bayzat-sf/ember/hradmin/bower.json</config-path>
+  </component>
+  <component name="JscsConfiguration" jscs-preset="crockford" />
+  <component name="JscsProjectComponent">
+    <option name="nodeInterpreter" value="" />
+    <option name="esprima" value="" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings />
+    </phpunit_settings>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectDictionaryState">
+    <dictionary name="bayzat" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="VagrantProjectSettings">
+    <option name="instanceFolder" value="" />
+    <option name="provider" value="" />
+  </component>
+</project>
