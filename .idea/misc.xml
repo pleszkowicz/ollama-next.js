@@ -31,9 +31,6 @@
     </phpunit_settings>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectDictionaryState">
-    <dictionary name="bayzat" />
-  </component>
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
   </component>
