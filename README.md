@@ -1,6 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-It utilizes [Ollama](https://github.com/ollama/ollama) API to interact with the model via local web application.
+The project utilizes the [Ollama](https://github.com/ollama/ollama) API to interact with the local
+AI model via a web application, offering a more user-friendly alternative to the command line by streaming responses in real-time.
 
 ## Getting Started
 
